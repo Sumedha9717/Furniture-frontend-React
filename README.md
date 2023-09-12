@@ -30,5 +30,10 @@ React.js.
 Tailwind CSS.
 
 ## Screenshots
+![1](https://github.com/Sumedha9717/Furniture-frontend-React/assets/137753353/e1974af4-dede-4211-bf34-c0a9863f703a)
+![2](https://github.com/Sumedha9717/Furniture-frontend-React/assets/137753353/6ced0128-666b-4c47-8b3b-8ac9fa52d494)
+![3](https://github.com/Sumedha9717/Furniture-frontend-React/assets/137753353/f1e4c381-d580-4b0a-94a6-9e4cd6134fe4)
+![4](https://github.com/Sumedha9717/Furniture-frontend-React/assets/137753353/2dc2670a-ca70-4537-86f1-a8503ba10c77)
+![5](https://github.com/Sumedha9717/Furniture-frontend-React/assets/137753353/2edf622f-51e2-413f-a692-41bdae014487)
 
 
